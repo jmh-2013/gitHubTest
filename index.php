@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>PHP</h1>
+<h1>PHPgit</h1>
 
 <?php
 echo "Hello World!";
